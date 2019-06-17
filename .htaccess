@@ -1,0 +1,4 @@
+DirectoryIndex index.php
+
+AddDefaultCharset UTF-8
+AddType application/octet-stream .pdf
